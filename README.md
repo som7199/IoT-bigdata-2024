@@ -39,9 +39,9 @@ IoT 개발자 과정 빅데이터 분석 및 인공지능 학습 리포지토리
 
 - 빅데이터 학습
     - 실습자료, 파이썬, 빅데이터 분석 기초학습 
-    - [넘파이](넘파이)
-    - 판다스
-    - 맷플롭립
+    - [Numpy](https://github.com/som7199/IoT-bigdata-2024/blob/main/day01/bda01_numpy_basic.ipynb)
+    - [Pandas](https://github.com/som7199/IoT-bigdata-2024/blob/main/day01/bda02_pandas_basic.ipynb)
+    - [Matplotlib](https://github.com/som7199/IoT-bigdata-2024/blob/main/day01/bda03_matplotlib_basic.ipynb)
 
 ## 2일차
 
