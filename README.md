@@ -47,12 +47,12 @@ IoT 개발자 과정 빅데이터 분석 및 인공지능 학습 리포지토리
 - 빅데이터 학습
     - 기초학습, 크롤링 관련
     - 셀레니움 + 뷰티플수프 같이 진행    
-    - [뷰티플수프](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day2/dba04_beautifulsoup_basic.ipynb)
-    - [셀레니움](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day2/dba05_selenium_basic.ipynb)
+    - [뷰티플수프](https://github.com/som7199/IoT-bigdata-2024/blob/main/day2/dba04_beautifulsoup_basic.ipynb)
+    - [셀레니움](https://github.com/som7199/IoT-bigdata-2024/blob/main/day2/dba05_selenium_basic.ipynb)
 
 - 빅데이터 실습
     - 스타벅스 입지 분석
-    - [스벅입지분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day2/dba06_starbucks_analysis.ipynb)
+    - [스벅입지분석](https://github.com/som7199/IoT-bigdata-2024/blob/main/day2/dba06_starbucks_analysis.ipynb)
 
 ## 3일차
 - 개인 토이프로젝트
@@ -62,7 +62,7 @@ IoT 개발자 과정 빅데이터 분석 및 인공지능 학습 리포지토리
 - 빅데이터 실습
     - 스타벅스 입지 분석(계속)
     - 지난주 최종으로 만든 데이터 csv파일 다시 로드
-    - [스벅입지분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day3/dba07_starbucks_analysis.ipynb)
+    - [스벅입지분석](https://github.com/som7199/IoT-bigdata-2024/blob/main/day3/dba07_starbucks_analysis.ipynb)
 
 - 빅데이터 활용방안
     - [강사자바2024](https://github.com/hugoMGSung/bigdata-analysis-2024)
@@ -92,14 +92,21 @@ IoT 개발자 과정 빅데이터 분석 및 인공지능 학습 리포지토리
 
 ## 4일차
 - 머신러닝, 딥러닝
-    - [개념]()
-    - [Pytorch 기본]()
-    - [회귀분석]()
-    - [...]()
+    - 인공지능 개념 학습
+    - 파이토치 기본 설명, CPU/GPU 라이브러리 설치
+    - [개념](https://github.com/som7199/IoT-bigdata-2024/blob/main/day04/dba08_ml_dl_concept.ipynb)
+    - [Pytorch 개요 및 설치](https://github.com/som7199/IoT-bigdata-2024/blob/main/day04/dba09_pytorch_start.ipynb)
 
 ## 5일차
+- 머신러닝, 딥러닝
+    - ML(Machine Learning) -> DL(Deel Learning) -> NLP(Natural Language Processing) ...
+    - [PyTorch 기본](https://github.com/som7199/IoT-bigdata-2024/blob/main/day05/dba10_pytorch_basic.ipynb)
+    - 타이타닉 생존자 예측
+    - [ML회귀분석](https://github.com/som7199/IoT-bigdata-2024/blob/main/day05/dba11_linear_regression.ipynb)
 
 ## 6일차
+- 머신러닝, 딥러닝
+    - 타이타닉 생존자 계속
 
 ## 7일차
 
