@@ -111,10 +111,20 @@ IoT 개발자 과정 빅데이터 분석 및 인공지능 학습 리포지토리
     - [ML회귀분석](https://github.com/som7199/IoT-bigdata-2024/blob/main/day05/dba11_linear_regression.ipynb)
 
 ## 7일차
+- 머신러닝, 딥러닝
+    - CNN(Convolution NN)
+    - [CNN이미지분류](https://github.com/som7199/IoT-bigdata-2024/blob/main/day05/dba12_image_class.ipynb)
+    - [CNN이미지분류](https://github.com/som7199/IoT-bigdata-2024/blob/main/day05/dba12_image_class_Fashion-MNIST.ipynb)
 
 ## 8일차
+- 머신러닝, 딥러닝
+    - 객체탐지(Object Detection)
+    - OpenCV, YOLOv8
+    - [YOLOv8](https://github.com/som7199/IoT-bigdata-2024/blob/main/day05/dba13_object_detection.ipynb)
 
 ## 9일차
+- 머신러닝, 딥러닝 개인 클로닝
+    - 예제 리포지토리, Cloning
 
 ## Furthur
 1. 기초
