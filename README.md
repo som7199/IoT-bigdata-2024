@@ -113,8 +113,8 @@ IoT 개발자 과정 빅데이터 분석 및 인공지능 학습 리포지토리
 ## 7일차
 - 머신러닝, 딥러닝
     - CNN(Convolution NN)
-    - [CNN이미지분류](https://github.com/som7199/IoT-bigdata-2024/blob/main/day07/dba12_image_class.ipynb)
-    - [CNN이미지분류](https://github.com/som7199/IoT-bigdata-2024/blob/main/day07/dba12_image_class_Fashion-MNIST.ipynb)
+    - [CNN_손글씨이미지분류](https://github.com/som7199/IoT-bigdata-2024/blob/main/day07/dba12_image_class.ipynb)
+    - [CNN_옷이미지분류](https://github.com/som7199/IoT-bigdata-2024/blob/main/day07/dba12_image_class_Fashion-MNIST.ipynb)
 
 ## 8일차
 - 머신러닝, 딥러닝
