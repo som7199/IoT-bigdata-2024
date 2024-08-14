@@ -122,8 +122,10 @@ IoT 개발자 과정 빅데이터 분석 및 인공지능 학습 리포지토리
     - OpenCV, YOLOv8
     - [YOLOv8](https://github.com/som7199/IoT-bigdata-2024/blob/main/day08/dba13_object_detection.ipynb)
 
-    <img src="" width="700">
+      ![yolo_beer](https://github.com/user-attachments/assets/0d214b91-8be0-4d6a-8a3e-3da40299e668)
 
+      https://github.com/user-attachments/assets/a384cee6-8584-494e-8fcb-59b6aef94cea
+   
 ## 9일차
 - 머신러닝, 딥러닝 개인 클로닝
     - 예제 리포지토리 참조, Cloning
